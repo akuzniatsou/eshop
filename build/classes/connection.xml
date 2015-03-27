@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties [
+        <!ELEMENT properties (entry)*>
+        <!ELEMENT entry (#PCDATA)>
+        <!ATTLIST entry
+                key CDATA #REQUIRED>
+        ]>
+<properties>
+<entry key="DatabaseURL">jdbc:mysql://localhost:3306/biblioteka</entry>
+<entry key="UserName">adminBiblio</entry>
+<entry key="UserPassword">Biblio</entry>
+</properties>

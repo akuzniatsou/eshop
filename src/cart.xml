@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<carts>
+	<cart id="6">
+		<product id="1">
+			<quantity>5</quantity>
+		</product>
+		<product id="2">
+			<quantity>10</quantity>
+		</product>
+		<product id="3">
+			<quantity>2</quantity>
+		</product>
+		<product id="5">
+			<quantity>5</quantity>
+		</product>	
+	</cart>
+	<cart id="5">
+		<product id="1">
+			<quantity>"4"</quantity>
+		</product>	
+	</cart>
+	<cart id="4">
+		<product id="2">
+			<quantity>2</quantity>
+		</product>	
+	</cart>
+</carts>

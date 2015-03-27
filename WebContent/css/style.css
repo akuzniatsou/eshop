@@ -1,0 +1,129 @@
+body, html	{
+				margin:0px;
+				padding:0px;
+			}
+#maket		{
+				width:100%;
+				min-width:600px;
+				margin:0 auto;
+			}
+#header,#navi	{
+					background-color:#FFFFFF;
+				}
+#logo		{
+				margin-left:100px;
+			}
+
+#login		{
+				height: 25px;
+				margin-left:252px;
+				margin-right:202px;
+			}
+#local		{
+				width:200px;
+				float:right;
+			}
+
+#welcome	{
+				width:250px;
+				float:left;
+			}
+#welcome1	{
+				padding-left: 5px;
+			}
+#search		{
+				
+			}			
+		
+#left		{
+				background-color:#FFFFFF;
+				width:200px;
+				float:left;
+			}
+#left_menu		{
+			/*	border: 1px solid black;*/
+				margin:20px;
+				padding:10px 5px;
+			}
+#content	{
+				background-color:#FFFFFF;
+				margin-left:205px;
+				margin-right:205px;
+			}
+#right		{
+				width:200px;
+				background-color:#FFFFFF;
+				float:right;
+			}
+#footer		{
+				background-color:#FFFFFF;
+				clear:both;
+			}
+
+div			{
+				/*border: 1px solid black;*/
+			}
+ul, ul li	{
+				margin: 0px;
+				padding: 0px;
+			}
+
+li			{
+				list-style: none;
+			}
+			
+#container {}
+
+#container > div {
+				border: 1px solid black;
+				width: 250px;
+				margin-right: 2px;
+				margin-bottom: 5px;
+				background-color: #fff;
+				display: inline-block;
+				vertical-align: top; 
+				padding-left: 10px;
+				padding-right: 10px;   
+			}
+#container2 > div {
+				border: 1px solid black;
+				width: 700px;
+				margin-right: 2px;
+				margin-bottom: 5px;
+				background-color: #fff;
+				display: inline-block;
+				vertical-align: top; 
+				padding-left: 10px;
+				padding-right: 10px;   
+			}
+#container3 > div {
+				border: 1px solid black;
+				width: 250px;
+				margin-right: 2px;
+				margin-bottom: 5px;
+				background-color: #fff;
+				display: inline-block;
+				vertical-align: top; 
+				padding-left: 10px;
+				padding-right: 10px;   
+			}
+			
+			
+#type > span {	color: blue;
+				font-size: 1em;
+			}
+#model > span {	color: blue;
+				font-size: 1em;
+			}
+#cost > span {	color: red;
+				font-size: 2em;
+			}
+
+#administrator > span {	color: red;
+				font-size: 1.5em;
+			}
+			
+#manager > span {	color: blue;
+				font-size: 1.5em;
+			}
+			

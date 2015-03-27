@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//WebContent/jsp/manager.jsp=UTF-8
+encoding//WebContent/jsp/old/error.jsp=UTF-8
+encoding//WebContent/jsp/old/information.jsp=UTF-8
+encoding//src/sql/1_drop_database.sql=UTF-8
+encoding//src/sql/2_create_database.sql=UTF-8
